@@ -1,7 +1,7 @@
 
 
 # UoS---Air-Cargo-Security-
-Air Cargo Security - Old University of Sheffield Master of Physics Project
+Air Cargo Security - Old University of Sheffield Physics Project
 
 Streamlining air cargo security. Saving this because the project went very well, excellent team. Investigating interesting technologies.
 
